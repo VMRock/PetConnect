@@ -1,0 +1,15 @@
+Admin 
+username: Admin
+password: Abc@123
+
+username: Admin
+password: Abc@123
+email: pawsomehaven000@gmail.com
+
+user
+username: Smile
+password: Smile@1234
+
+username: User
+password: User@123
+email: user20000724@gmail.com
